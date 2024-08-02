@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m currently working on ... C++ Projects
+🌱 I’m currently learning ... Generative AI
 <!--
 **Stea1thyOut1aw/Stea1thyOut1aw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
