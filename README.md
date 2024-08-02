@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Siddharth Sharma, Fresher in AI  seeking a challenging career to apply my skills in AI, Machine Learning, and Deep Learning. I currently have expertise building programs in a variety of programming languages and also leaning about Machine Learning, Deep Learning and computer vision in domain of Housing sales, Social Media, Agriculture, Safety Works and Photography..
+Hello! I'm Siddharth Sharma, Fresher in AI  seeking a career opportunity to apply my skills in AI, Machine Learning, and Deep Learning. I currently have expertise building programs in a variety of programming languages and also leaning about Machine Learning, Deep Learning and computer vision in domain of Housing sales, Social Media, Agriculture, Safety Works and Photography..
 
 - 🔭 I’m currently working on various data analysis projects.
 - 🌱 I’m constantly learning and exploring new data analysis techniques and tools.
