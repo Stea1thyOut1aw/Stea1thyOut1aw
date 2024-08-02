@@ -21,13 +21,10 @@ Hello! I'm Siddharth Sharma, a passionate Data Analyst with a knack for turning 
 
 Here are some of the projects I've worked on:
 
-1. **Sales Data Analysis:** Analyzed sales data to identify trends and patterns, resulting in a 15% increase in sales.
-2. **Customer Segmentation:** Used clustering techniques to segment customers for targeted marketing campaigns.
-3. **Predictive Modeling:** Built predictive models to forecast customer churn and improve retention strategies.
+1. CIFAR - 100 Classification using CNN --> The goal of this project is to classify images from the CIFAR-100 dataset using a CNN model. We implement a CNN architecture, train it on the dataset, and calculate the accuracy of the newly trained model.
+2. Titanic Surviors Preprocessed Model --> The goal of this project is to preprocess the Titanic dataset to create a clean and feature-rich dataset suitable for training machine learning models to predict survivors. This preprocessing pipeline addresses missing values, encodes categorical variables, and scales numerical features.
+3. Automated Cattle Detection --> The project aim is to showcase how YOLO can significantly enhance the efficiency and effectiveness of cattle monitoring and management, ultimately contributing to the advancement of modern agricultural practices.
 
-## GitHub Stats
-
-!Your GitHub Stats
 
 ## Let's Connect!
 
