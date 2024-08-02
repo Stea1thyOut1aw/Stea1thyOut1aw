@@ -6,16 +6,15 @@ Hello! I'm Siddharth Sharma, a passionate Data Analyst with a knack for turning 
 
 - 🔭 I’m currently working on various data analysis projects.
 - 🌱 I’m constantly learning and exploring new data analysis techniques and tools.
-- 👯 I’m looking to collaborate on data science and machine learning projects.
 - 💬 Ask me about data visualization, statistical analysis, and Python programming.
-- 📫 How to reach me: [Your Email] | [LinkedIn Profile]
+- 📫 How to reach me: sidsha01@gmail.com
 
 ## Skills
 
 - **Programming Languages:** Python, R, SQL
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 - **Data Analysis:** Pandas, NumPy, Scikit-learn
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL
 - **Tools:** Jupyter Notebook, Git, Excel
 
 ## Projects
